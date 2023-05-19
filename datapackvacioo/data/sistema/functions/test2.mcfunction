@@ -1,0 +1,1 @@
+tellraw @a {"text":"§3§l[§b§lMapa§3§l]§r§b Tutorial #1"}
